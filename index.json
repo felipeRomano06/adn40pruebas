@@ -9,8 +9,7 @@
 "nav": {
 "home": "https://pruebasazteca.github.io/adn/home.json",
 "cobertura": "https://d2zt1jka0kpxb7.cloudfront.net/app/2020/cobertura/homes/cobertura.json",
-"videoteca": "https://s3.amazonaws.com/4pp.adn40.com/app/2020/UAT/videoteca/homes/videoteca.json",
-"podcast": "Url json podcast",
+"videoteca": "https://d2zt1jka0kpxb7.cloudfront.net/app/2020/videoteca/homes/videoteca.json",
 "envivo": "https://d2zt1jka0kpxb7.cloudfront.net/app/2020/vivo/live.json"
 },
 "prebid": {
