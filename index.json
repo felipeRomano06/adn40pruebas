@@ -3,7 +3,7 @@
 "envivo": "https://s3.amazonaws.com/4pp.adn40.com/app/2020/vivo/live.json",
 "secciones": "https://s3.amazonaws.com/4pp.adn40.com/app/2020/configuracion/personalizacion.json",
 "configura": "https://tigsnwe63f.execute-api.us-east-1.amazonaws.com/dev/personaliza",
-"login": "https://s3.amazonaws.com/4pp.adn40.com/app/2020/login.json",
+"login": "https://d2zt1jka0kpxb7.cloudfront.net/app/2020/login.json",
 "behavioral": "https://tigsnwe63f.execute-api.us-east-1.amazonaws.com/dev/behavior",
 "adunitid": "",
 "nav": {
