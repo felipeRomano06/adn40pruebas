@@ -2,7 +2,7 @@
 "ultimaGeneracion": "2023-09-27 13:49:03",
 "envivo": "https://feliperomano06.github.io/adn40pruebas/enVivo.json",
 "secciones": "https://s3.amazonaws.com/4pp.adn40.com/app/2020/configuracion/personalizacion.json",
-"configura": "https://tigsnwe63f.execute-api.us-east-1.amazonaws.com/dev/personaliza",
+"configura": "https://feliperomano06.github.io/adn40pruebas/configuracion.json",
 "login": "https://d2zt1jka0kpxb7.cloudfront.net/app/2020/login.json",
 "behavioral": "https://tigsnwe63f.execute-api.us-east-1.amazonaws.com/dev/behavior",
 "adunitid": "",
