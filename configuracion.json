@@ -18,7 +18,7 @@
 },
   {
 "celda": "CELCFG",
-"titulo": "Favoritos",
+"titulo": "Favoritos2",
 "subtitulo": "Encuentra las notas que más te han interesado.",
 "tipo": "CFG_FAVORITOS",
 "icono": "f02e",
@@ -26,7 +26,7 @@
 },
 {
 "celda": "CELCFG",
-"titulo": "Aviso de privacidad",
+"titulo": "Aviso de privacidad2",
 "subtitulo": "Revisa nuestro aviso de privacidad.",
 "tipo": "CFG_PRIVACIDAD",
 "icono": "e91b",
