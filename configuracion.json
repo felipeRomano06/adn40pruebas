@@ -15,6 +15,69 @@
 "tipo": "CFG_PRIVACIDAD",
 "icono": "f023",
 "contenido": ""
+},
+  {
+"celda": "CELCFG",
+"titulo": "Favoritos",
+"subtitulo": "Encuentra las notas que más te han interesado.",
+"tipo": "CFG_FAVORITOS",
+"icono": "f02e",
+"contenido": ""
+},
+{
+"celda": "CELCFG",
+"titulo": "Aviso de privacidad",
+"subtitulo": "Revisa nuestro aviso de privacidad.",
+"tipo": "CFG_PRIVACIDAD",
+"icono": "f023",
+"contenido": ""
+},
+  {
+"celda": "CELCFG",
+"titulo": "Favoritos",
+"subtitulo": "Encuentra las notas que más te han interesado.",
+"tipo": "CFG_FAVORITOS",
+"icono": "f02e",
+"contenido": ""
+},
+{
+"celda": "CELCFG",
+"titulo": "Aviso de privacidad",
+"subtitulo": "Revisa nuestro aviso de privacidad.",
+"tipo": "CFG_PRIVACIDAD",
+"icono": "f023",
+"contenido": ""
+},
+  {
+"celda": "CELCFG",
+"titulo": "Favoritos",
+"subtitulo": "Encuentra las notas que más te han interesado.",
+"tipo": "CFG_FAVORITOS",
+"icono": "f02e",
+"contenido": ""
+},
+{
+"celda": "CELCFG",
+"titulo": "Aviso de privacidad",
+"subtitulo": "Revisa nuestro aviso de privacidad.",
+"tipo": "CFG_PRIVACIDAD",
+"icono": "f023",
+"contenido": ""
+}, {
+"celda": "CELCFG",
+"titulo": "Favoritos",
+"subtitulo": "Encuentra las notas que más te han interesado.",
+"tipo": "CFG_FAVORITOS",
+"icono": "f02e",
+"contenido": ""
+},
+{
+"celda": "CELCFG",
+"titulo": "Aviso de privacidad",
+"subtitulo": "Revisa nuestro aviso de privacidad.",
+"tipo": "CFG_PRIVACIDAD",
+"icono": "f023",
+"contenido": ""
 }
 ]
 }
