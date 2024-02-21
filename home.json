@@ -1,0 +1,148 @@
+{
+"firebase": {
+"nombre_contenido": "",
+"tipo_contenido": "Home",
+"subsubseccion": "",
+"subseccion": "",
+"programa": "",
+"firebaseScreen": "Home",
+"seccion": ""
+},
+"items": [
+{
+"titulo": "Hoy",
+"titulocolorLM": "#F96B07",
+"titulocolorDM": "",
+"icono": "e90a",
+"iconocolorLM": "#ECF0F3",
+"iconocolorDM": "",
+"contenido": "https://pruebasazteca.github.io/adn/hoy.json",
+"tipocontenido": "L",
+"breakingnews": {
+"texto": "Alerta adn40",
+"titulo": "ContaminaciÃ³n alcanza los 158 puntos de ozono Â¿HabrÃ¡ doble Hoy No Circula?",
+"url": "https://uat.tv-azteca.psdops.com/adn40/ciudad/calidad-del-aire-cdmx-altos-niveles-contaminacion-20-nov"
+}
+},
+{
+"titulo": "Podcast",
+"titulocolorLM": "#F96B07",
+"titulocolorDM": "",
+"icono": "e90a",
+"iconocolorLM": "#ECF0F3",
+"iconocolorDM": "",
+"contenido": "https://pruebasazteca.github.io/adn/podcast.json",
+"tipocontenido": "L"
+},
+{
+"titulo": "Poder",
+"titulocolorLM": "#F96B07",
+"titulocolorDM": "",
+"icono": "e90a",
+"iconocolorLM": "#ECF0F3",
+"iconocolorDM": "",
+"contenido": "https://pruebasazteca.github.io/adn/poder.json",
+"tipocontenido": "L"
+},
+{
+"titulo": "México",
+"titulocolorLM": "#F96B07",
+"titulocolorDM": "",
+"icono": "e90a",
+"iconocolorLM": "#ECF0F3",
+"iconocolorDM": "",
+"contenido": "https://pruebasazteca.github.io/adn/mexico.json",
+"tipocontenido": "L"
+},
+{
+"titulo": "Finanzas",
+"titulocolorLM": "#F96B07",
+"titulocolorDM": "",
+"icono": "e90a",
+"iconocolorLM": "#ECF0F3",
+"iconocolorDM": "",
+"contenido": "https://pruebasazteca.github.io/adn/hoy.json",
+"tipocontenido": "L"
+},
+{
+"titulo": "Internacional",
+"titulocolorLM": "#F96B07",
+"titulocolorDM": "",
+"icono": "e90a",
+"iconocolorLM": "#ECF0F3",
+"iconocolorDM": "",
+"contenido": "https://pruebasazteca.github.io/adn/hoy.json",
+"tipocontenido": "L"
+},
+{
+"titulo": "Ciudad",
+"titulocolorLM": "#F96B07",
+"titulocolorDM": "",
+"icono": "e90a",
+"iconocolorLM": "#ECF0F3",
+"iconocolorDM": "",
+"contenido": "https://pruebasazteca.github.io/adn/hoy.json",
+"tipocontenido": "L"
+},
+{
+"titulo": "Seguridad",
+"titulocolorLM": "#F96B07",
+"titulocolorDM": "",
+"icono": "e90a",
+"iconocolorLM": "#ECF0F3",
+"iconocolorDM": "",
+"contenido": "https://pruebasazteca.github.io/adn/hoy.json",
+"tipocontenido": "L"
+},
+{
+"titulo": "Es tendencia",
+"titulocolorLM": "#F96B07",
+"titulocolorDM": "",
+"icono": "e90a",
+"iconocolorLM": "#ECF0F3",
+"iconocolorDM": "",
+"contenido": "https://pruebasazteca.github.io/adn/hoy.json",
+"tipocontenido": "L"
+},
+{
+"titulo": "Pop",
+"titulocolorLM": "#F96B07",
+"titulocolorDM": "",
+"icono": "e90a",
+"iconocolorLM": "#ECF0F3",
+"iconocolorDM": "",
+"contenido": "https://pruebasazteca.github.io/adn/hoy.json",
+"tipocontenido": "L"
+},
+{
+"titulo": "Salud",
+"titulocolorLM": "#F96B07",
+"titulocolorDM": "",
+"icono": "e90a",
+"iconocolorLM": "#ECF0F3",
+"iconocolorDM": "",
+"contenido": "https://pruebasazteca.github.io/adn/hoy.json",
+"tipocontenido": "L"
+},
+{
+"titulo": "Ciencia",
+"titulocolorLM": "#F96B07",
+"titulocolorDM": "",
+"icono": "e90a",
+"iconocolorLM": "#ECF0F3",
+"iconocolorDM": "",
+"contenido": "https://pruebasazteca.github.io/adn/hoy.json",
+"tipocontenido": "L"
+},
+{
+"titulo": "Especiales",
+"titulocolorLM": "#F96B07",
+"titulocolorDM": "",
+"icono": "e90a",
+"iconocolorLM": "#ECF0F3",
+"iconocolorDM": "",
+"contenido": "https://pruebasazteca.github.io/adn/hoy.json",
+"tipocontenido": "L"
+}
+]
+}
