@@ -7,7 +7,7 @@
 "behavioral": "https://tigsnwe63f.execute-api.us-east-1.amazonaws.com/dev/behavior",
 "adunitid": "",
 "nav": {
-"home": "https://d2zt1jka0kpxb7.cloudfront.net/app/2020/homes/menu.json",
+"home": "https://feliperomano06.github.io/adn40pruebas/home.json",
 "cobertura": "https://d2zt1jka0kpxb7.cloudfront.net/app/2020/cobertura/homes/cobertura.json",
 "videoteca": "https://d2zt1jka0kpxb7.cloudfront.net/app/2020/videoteca/homes/videoteca.json",
 "envivo": "https://pruebasazteca.github.io/adn/vivo.json"
